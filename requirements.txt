@@ -1,0 +1,6 @@
+uvicorn
+fastapi
+litellm
+backoff
+redis
+supabase
